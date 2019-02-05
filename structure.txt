@@ -1,0 +1,8 @@
+project
+|   Dockerfile
+|
+\---src
+        CMakeLists.txt
+        main.cpp
+        sample_hello_world.h
+        test.cpp
